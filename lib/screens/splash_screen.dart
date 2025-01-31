@@ -70,4 +70,7 @@ class _SplashScreenState extends State<SplashScreen> {
     );
   }
 }
+<<<<<<< HEAD
 //k
+=======
+>>>>>>> 981eb09 (Updated SplashScreen to navigate based on authentication status and adjusted logo image)
